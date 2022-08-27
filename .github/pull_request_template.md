@@ -2,7 +2,7 @@
 
 
 ### 対応するIssue
-https://github.com/YELL-Organization/Operations/issues/17
+resolve
 
 ## 修正・変更箇所
 -
